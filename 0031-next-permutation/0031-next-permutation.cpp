@@ -1,5 +1,5 @@
 #include <vector>
-#include <algorithm> // for next_permutation
+#include <algorithm>
 using namespace std;
 
 class Solution {
