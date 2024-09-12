@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include <stack>
 using namespace std;
 
 class MyQueue {
@@ -7,15 +7,11 @@ private:
     int frontt;
 
 public:
-    MyQueue() {
-        frontt = -1; 
-    }
+    MyQueue() : frontt(-1) {} 
     
     void push(int x) {
-        if (s1.empty()) {
-            frontt = x; 
-        }
-        s1.push(x); 
+        if (s1.empty()) frontt = x;
+        s1.push(x);
     }
     
     int pop() {
@@ -25,21 +21,16 @@ public:
                 s1.pop();
             }
         }
-        int res = s2.top();
-        s2.pop(); 
-        return res;
+        int result = s2.top();
+        s2.pop();
+        return result;
     }
     
     int peek() {
-        if (!s2.empty()) {
-            return s2.top(); 
-        }
-        return frontt; 
+        return s2.empty() ? frontt : s2.top();
     }
     
     bool empty() {
-        return s1.empty() && s2.empty(); 
+        return s1.empty() && s2.empty();
     }
 };
-
-
