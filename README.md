@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sarthakpy7/Leetcode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sarthakpy7/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1197-parsing-a-boolean-expression](https://github.com/sarthakpy7/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sarthakpy7/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpy7/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sarthakpy7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthakpy7/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakpy7/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1197-parsing-a-boolean-expression](https://github.com/sarthakpy7/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1197-parsing-a-boolean-expression](https://github.com/sarthakpy7/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpy7/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
