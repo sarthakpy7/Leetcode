@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/sarthakpy7/Leetcode/tree/master/0242-valid-anagram) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0812-rotate-string](https://github.com/sarthakpy7/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sarthakpy7/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1197-parsing-a-boolean-expression](https://github.com/sarthakpy7/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sarthakpy7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/sarthakpy7/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
