@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sarthakpy7/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2580-circular-sentence](https://github.com/sarthakpy7/Leetcode/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3451-string-compression-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3451-string-compression-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
