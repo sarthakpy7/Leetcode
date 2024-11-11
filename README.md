@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakpy7/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sarthakpy7/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/sarthakpy7/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/sarthakpy7/Leetcode/tree/master/2155-find-missing-observations) |
+| [2716-prime-subtraction-operation](https://github.com/sarthakpy7/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sarthakpy7/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sarthakpy7/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/sarthakpy7/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/sarthakpy7/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sarthakpy7/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sarthakpy7/Leetcode/tree/master/0179-largest-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpy7/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/sarthakpy7/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/sarthakpy7/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
