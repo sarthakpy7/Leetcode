@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/sarthakpy7/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sarthakpy7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1755-defuse-the-bomb](https://github.com/sarthakpy7/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sarthakpy7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/sarthakpy7/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sarthakpy7/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -295,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/sarthakpy7/Leetcode/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/sarthakpy7/Leetcode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
