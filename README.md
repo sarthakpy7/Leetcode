@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sarthakpy7/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/sarthakpy7/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sarthakpy7/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/sarthakpy7/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2755-extra-characters-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpy7/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/sarthakpy7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sarthakpy7/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2580-circular-sentence](https://github.com/sarthakpy7/Leetcode/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sarthakpy7/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2755-extra-characters-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sarthakpy7/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3451-string-compression-iii) |
@@ -301,4 +303,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/sarthakpy7/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/sarthakpy7/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 <!---LeetCode Topics End-->
