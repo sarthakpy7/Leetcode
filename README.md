@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/sarthakpy7/Leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sarthakpy7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/sarthakpy7/Leetcode/tree/master/0242-valid-anagram) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sarthakpy7/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sarthakpy7/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sarthakpy7/Leetcode/tree/master/0029-divide-two-integers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sarthakpy7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sarthakpy7/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sarthakpy7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
