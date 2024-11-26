@@ -322,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/sarthakpy7/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sarthakpy7/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
