@@ -1,17 +1,21 @@
+#include <string>
+#include <map>
+using namespace std;
+
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        map<char,int> mp_s,mp_t;
-        
-        for (auto j:s){
-            mp_s[j]++;
+        if (s.length() != t.length()) return false;
+
+        map<char, int> mp_s, mp_t;
+
+        for (char c : s) {
+            mp_s[c]++;
         }
-        for(auto j:t){
-            mp_t[j]++;
-        }        
-        if(mp_s == mp_t){
-            return true;
+        for (char c : t) {
+            mp_t[c]++;
         }
-        return false;
+
+        return mp_s == mp_t;
     }
 };
