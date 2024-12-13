@@ -12,7 +12,7 @@ public:
 
     long long minimumTime(vector<int>& time, int totalTrips) {
         long long lo = 1;
-        long long hi = 1LL * *min_element(time.begin(), time.end()) * totalTrips; // Upper bound
+        long long hi = 1LL*time[0]*totalTrips; 
         long long ans = -1;
 
         while (lo <= hi) {
