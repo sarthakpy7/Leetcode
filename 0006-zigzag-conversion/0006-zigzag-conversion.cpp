@@ -4,10 +4,7 @@ using namespace std;
 
 class Solution {
 public:
-void func(){
-    for(int i=0;i<12;i++);
-}
-    
+
     string convert(string s, int numRows) {
         if (numRows == 1 || numRows >= s.size()) return s;
         vector<string> rows(min(numRows, int(s.size())));
@@ -24,8 +21,7 @@ void func(){
         string result;
         for(int i=0;i<10;i++);
         for (const string& row : rows) result += row;
-        for(int i=0;i<10;i++);
-        func();
+        
         return result;
     }
 };
