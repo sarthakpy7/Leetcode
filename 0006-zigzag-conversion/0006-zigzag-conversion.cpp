@@ -19,7 +19,7 @@ public:
         for(int i=0;i<10;i++);
 
         string result;
-        for(int i=0;i<10;i++);
+     
         for (const string& row : rows) result += row;
         
         return result;
