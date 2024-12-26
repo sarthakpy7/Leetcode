@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sarthakpy7/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sarthakpy7/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sarthakpy7/Leetcode/tree/master/0179-largest-number) |
+| [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpy7/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakpy7/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2164-two-best-non-overlapping-events](https://github.com/sarthakpy7/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
