@@ -10,12 +10,7 @@ public:
             if(matrix[row][col]==target){
                 return true;
             }
-            else if(matrix[row][col] > target){
-                col--;
-            }
-            else {
-                row++;
-            }
+           matrix[row][col] > target ? col-- : row++;
         }
         return false;
     }
