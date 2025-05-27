@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/sarthakpy7/Leetcode/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sarthakpy7/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1078-remove-outermost-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/sarthakpy7/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sarthakpy7/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sarthakpy7/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthakpy7/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/sarthakpy7/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1078-remove-outermost-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/sarthakpy7/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpy7/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
