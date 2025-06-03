@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakpy7/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthakpy7/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarthakpy7/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sarthakpy7/Leetcode/tree/master/0136-single-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sarthakpy7/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sarthakpy7/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sarthakpy7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
