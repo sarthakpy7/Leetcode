@@ -11,9 +11,9 @@ public:
                st.pop();
             }
 
-            if(!st.empty() && (i<n))
+            if(i<n)
             {
-                v[i]=st.top();
+                v[i]=st.empty()? -1 : st.top();
             }
             st.push(nums[i%n]);
         }
