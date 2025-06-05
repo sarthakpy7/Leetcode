@@ -1,36 +1,29 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-
 class Solution {
 public:
     int largestRectangleArea(vector<int>& heights) {
-        int n=heights.size();
-        int nsm[n];
-         for(int i=n-1;i>=0;i--){
-            int val=i+1;
-            while(val!=n && heights[val] >= heights[i]){
-                val = nsm[val];
+        int n = heights.size();
+        stack<int> st;
+        int maxa = 0;
+
+        for (int i = 0; i < n; i++) {
+            while (!st.empty() && heights[st.top()] > heights[i]) {
+                int element = st.top();
+                st.pop();  // ✅ Fix: pop the element after using it
+                int nse = i;
+                int pse = st.empty() ? -1 : st.top();
+                maxa = max(heights[element] * (nse - pse - 1), maxa);
             }
-            nsm[i]=val;
-         }
-        int psm[n];
-        for(int i=0;i<n;i++){
-            int val=i-1;
-            while(val!=-1 && heights[val] >= heights[i]){
-                val = psm[val];
-            }
-            psm[i]=val;
-         }
+            st.push(i);
+        }
 
-         int area=0;
-         for(int i=0;i<n;i++){
-            int height = heights[i];
-            int width = nsm[i] - psm[i] - 1;
-            area = max(area, height*width);
-         }
-         return area;
+        while (!st.empty()) {
+            int element = st.top();
+            st.pop();
+            int nse = n;
+            int pse = st.empty() ? -1 : st.top();
+            maxa = max(maxa, heights[element] * (nse - pse - 1));
+        }
 
-
+        return maxa;
     }
 };
