@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthakpy7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpy7/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0735-asteroid-collision](https://github.com/sarthakpy7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/sarthakpy7/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/sarthakpy7/Leetcode/tree/master/0792-binary-search) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/sarthakpy7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/sarthakpy7/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpy7/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sarthakpy7/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sarthakpy7/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/sarthakpy7/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/sarthakpy7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakpy7/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/1078-remove-outermost-parentheses) |
