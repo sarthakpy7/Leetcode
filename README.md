@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/sarthakpy7/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/sarthakpy7/Leetcode/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/sarthakpy7/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [0940-fruit-into-baskets](https://github.com/sarthakpy7/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/sarthakpy7/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/sarthakpy7/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarthakpy7/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpy7/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/sarthakpy7/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sarthakpy7/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/sarthakpy7/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sarthakpy7/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sarthakpy7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakpy7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/sarthakpy7/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0940-fruit-into-baskets](https://github.com/sarthakpy7/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sarthakpy7/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sarthakpy7/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/sarthakpy7/Leetcode/tree/master/1755-defuse-the-bomb) |
