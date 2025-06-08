@@ -13,7 +13,7 @@ public:
             maxFreq = max(maxFreq, freq[s[r] - 'A']);
 
             // If number of letters to change > k, move left pointer
-            if ((r - l + 1) - maxFreq > k) {
+            while ((r - l + 1) - maxFreq > k) {
                 freq[s[l] - 'A']--;
                 l++;
             }
