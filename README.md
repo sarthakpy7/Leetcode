@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3451-string-compression-iii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sarthakpy7/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sarthakpy7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpy7/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarthakpy7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3427-special-array-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/sarthakpy7/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sarthakpy7/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/sarthakpy7/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Graph
 |  |
 | ------- |
