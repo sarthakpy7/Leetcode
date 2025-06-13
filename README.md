@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sarthakpy7/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sarthakpy7/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sarthakpy7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarthakpy7/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/sarthakpy7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
