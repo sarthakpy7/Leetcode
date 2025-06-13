@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthakpy7/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthakpy7/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/sarthakpy7/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakpy7/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/sarthakpy7/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/sarthakpy7/Leetcode/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthakpy7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/sarthakpy7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
