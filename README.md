@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sarthakpy7/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sarthakpy7/Leetcode/tree/master/0029-divide-two-integers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sarthakpy7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0233-number-of-digit-one](https://github.com/sarthakpy7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2032-largest-odd-number-in-string](https://github.com/sarthakpy7/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/sarthakpy7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/sarthakpy7/Leetcode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/sarthakpy7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/sarthakpy7/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0044-wildcard-matching) |
+| [0233-number-of-digit-one](https://github.com/sarthakpy7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/sarthakpy7/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpy7/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
