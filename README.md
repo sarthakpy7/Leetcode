@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sarthakpy7/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sarthakpy7/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sarthakpy7/Leetcode/tree/master/0179-largest-number) |
+| [0221-maximal-square](https://github.com/sarthakpy7/Leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/sarthakpy7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakpy7/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sarthakpy7/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/sarthakpy7/Leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/sarthakpy7/Leetcode/tree/master/0787-sliding-puzzle) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/sarthakpy7/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/sarthakpy7/Leetcode/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
