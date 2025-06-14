@@ -1,22 +1,48 @@
 class Solution {
 public:
-    vector<int> diffWaysToCompute(string expression) {
-        vector<int> res;
-        for (int i = 0; i < expression.size(); ++i) {
-            char oper = expression[i];
-            if (oper == '+' || oper == '-' || oper == '*') {
-                vector<int> s1 = diffWaysToCompute(expression.substr(0, i));
-                vector<int> s2 = diffWaysToCompute(expression.substr(i + 1));
-                for (int a : s1) {
-                    for (int b : s2) {
-                        if (oper == '+') res.push_back(a + b);
-                        else if (oper == '-') res.push_back(a - b);
-                        else if (oper == '*') res.push_back(a * b);
-                    }
+    int n = 0;
+    vector<vector<vector<int>>> dp;
+    vector<int> solve(string& expression, int i, int j) {
+        if(!dp[i][j].empty()) return dp[i][j];
+        vector<int> results;
+        bool isNumber = true;
+        for (int k = i; k <= j; ++k) {
+            if (!isdigit(expression[k])) {
+                isNumber = false;
+                break;
+            }
+        }
+
+        if (isNumber) {
+            results.push_back(stoi(expression.substr(i, j - i + 1)));
+            return results;
+        }
+        for (int k = i; k <= j; k++) {
+            if (isdigit(expression[k]))
+                continue;
+
+            vector<int> left = solve(expression, i, k - 1);
+            vector<int> right = solve(expression, k + 1, j);
+            char op = expression[k];
+
+            for (auto l : left) {
+                for (auto r : right) {
+                    int ans = 0;
+                    if (op == '-')
+                        ans = l - r;
+                    else if (op == '+')
+                        ans = l + r;
+                    else if (op == '*')
+                        ans = l * r;
+                    results.push_back(ans);
                 }
             }
         }
-        if (res.empty()) res.push_back(stoi(expression));
-        return res;
+        return dp[i][j] = results;
+    }
+    vector<int> diffWaysToCompute(string expression) {
+        n = expression.length();
+        dp.assign(n, vector<vector<int>>(n));
+        return solve(expression, 0, n - 1);
     }
 };
