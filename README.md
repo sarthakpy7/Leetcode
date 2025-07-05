@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/sarthakpy7/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sarthakpy7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/sarthakpy7/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sarthakpy7/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sarthakpy7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sarthakpy7/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sarthakpy7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sarthakpy7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sarthakpy7/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sarthakpy7/Leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sarthakpy7/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/sarthakpy7/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/sarthakpy7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sarthakpy7/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
