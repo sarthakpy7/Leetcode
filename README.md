@@ -635,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakpy7/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/sarthakpy7/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarthakpy7/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sarthakpy7/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2164-two-best-non-overlapping-events](https://github.com/sarthakpy7/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sarthakpy7/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sarthakpy7/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Trie
 |  |
 | ------- |
