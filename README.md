@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sarthakpy7/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3427-special-array-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sarthakpy7/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpy7/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sarthakpy7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sarthakpy7/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sarthakpy7/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
 |  |
