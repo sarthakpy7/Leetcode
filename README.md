@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthakpy7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakpy7/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sarthakpy7/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/sarthakpy7/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarthakpy7/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakpy7/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakpy7/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sarthakpy7/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/sarthakpy7/Leetcode/tree/master/2509-minimize-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/sarthakpy7/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sarthakpy7/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthakpy7/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/sarthakpy7/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/sarthakpy7/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/sarthakpy7/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpy7/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2529-range-product-queries-of-powers](https://github.com/sarthakpy7/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/sarthakpy7/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3427-special-array-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
