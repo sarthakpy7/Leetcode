@@ -711,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarthakpy7/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/sarthakpy7/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
