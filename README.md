@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/sarthakpy7/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/sarthakpy7/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sarthakpy7/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/sarthakpy7/Leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/sarthakpy7/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2155-find-missing-observations](https://github.com/sarthakpy7/Leetcode/tree/master/2155-find-missing-observations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sarthakpy7/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/sarthakpy7/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/sarthakpy7/Leetcode/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1448-maximum-69-number](https://github.com/sarthakpy7/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarthakpy7/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sarthakpy7/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarthakpy7/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
