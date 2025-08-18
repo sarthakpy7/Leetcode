@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthakpy7/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakpy7/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0679-24-game](https://github.com/sarthakpy7/Leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0735-asteroid-collision](https://github.com/sarthakpy7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sarthakpy7/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthakpy7/Leetcode/tree/master/0342-power-of-four) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0679-24-game](https://github.com/sarthakpy7/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/sarthakpy7/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sarthakpy7/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/sarthakpy7/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -766,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/sarthakpy7/Leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sarthakpy7/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sarthakpy7/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
