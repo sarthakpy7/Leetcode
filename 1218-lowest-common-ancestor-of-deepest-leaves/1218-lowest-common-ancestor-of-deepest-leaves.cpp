@@ -1,35 +1,21 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    TreeNode* lcaDeepestLeaves(TreeNode* root) 
-    {
-        int maxd = maxDepth(root);
-        return dfs(root,maxd,0);    
-    }
-    TreeNode* dfs(TreeNode* root,int maxd,int len)
-    {
-        if(root == NULL) return NULL;
-        if(maxd-1 == len) return root;
+    struct Result {
+        TreeNode* node;
+        int depth;
+    };
 
-        TreeNode* left = dfs(root->left,maxd,len+1);
-        TreeNode* right = dfs(root->right,maxd,len+1);
+    Result dfs(TreeNode* root, int depth) {
+        if (!root) return {nullptr, depth};
 
-        if(left && right) return root;
-        return left?left:right;
+        auto left = dfs(root->left, depth + 1);
+        auto right = dfs(root->right, depth + 1);
+
+        if (left.depth == right.depth) return {root, left.depth};
+        return left.depth > right.depth ? left : right;
     }
-    int maxDepth(TreeNode* root)
-    {
-        if(root == NULL) return 0;
-        return 1 + max(maxDepth(root->left),maxDepth(root->right));
+
+    TreeNode* lcaDeepestLeaves(TreeNode* root) {
+        return dfs(root, 0).node;
     }
 };
