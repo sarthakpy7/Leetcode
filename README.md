@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthakpy7/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sarthakpy7/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sarthakpy7/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sarthakpy7/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakpy7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarthakpy7/Leetcode/tree/master/0027-remove-element) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarthakpy7/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sarthakpy7/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sarthakpy7/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sarthakpy7/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sarthakpy7/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthakpy7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarthakpy7/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sarthakpy7/Leetcode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sarthakpy7/Leetcode/tree/master/0088-merge-sorted-array) |
