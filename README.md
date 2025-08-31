@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sarthakpy7/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sarthakpy7/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sarthakpy7/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sarthakpy7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sarthakpy7/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/sarthakpy7/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakpy7/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sarthakpy7/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sarthakpy7/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sarthakpy7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sarthakpy7/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/sarthakpy7/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/sarthakpy7/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/sarthakpy7/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sarthakpy7/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/sarthakpy7/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/sarthakpy7/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3647-zero-array-transformation-iii) |
