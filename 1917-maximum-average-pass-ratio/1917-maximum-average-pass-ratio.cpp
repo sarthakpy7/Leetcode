@@ -1,42 +1,39 @@
+using info = tuple<double, int, int>;
+info A[100000];
 class Solution {
 public:
-    double maxAverageRatio(vector<vector<int>>& classes, int extraStudents) {
-        auto calculateGain = [](int passes, int total) -> double {
-            return (double)(passes + 1) / (total + 1) - (double)passes / total;
-        };
-
-        // Max heap to store (-gain, passes, totalStudents) so we maximize gain
-        priority_queue<pair<double, pair<int, int>>> maxHeap;
-
-        // Initialize the heap with each class's initial gain
-        for (const auto& cls : classes) {
-            int passes = cls[0], total = cls[1];
-            maxHeap.push({calculateGain(passes, total), {passes, total}});
+    static double maxAverageRatio(vector<vector<int>>& classes, int k) {
+        const int n = classes.size();
+        double sum = 0.0;
+        int i = 0;
+        for (auto& pq : classes) {
+            int p = pq[0], q = pq[1];
+            sum += (double)p/q;
+            double inc=(double)(q - p) / (q * (q + 1.0));
+            A[i++]={inc, p, q};
         }
-
-        // Distribute extra students
-        while (extraStudents--) {
-            auto [currentGain, classInfo] = maxHeap.top();
-            maxHeap.pop();
-            int passes = classInfo.first, total = classInfo.second;
-
-            // Add one student to this class
-            passes++;
-            total++;
-
-            // Recalculate the gain and push back into the heap
-            maxHeap.push({calculateGain(passes, total), {passes, total}});
+        
+        make_heap(A, A+n);
+        
+        for (int i = 0; i < k; i++) {
+            pop_heap(A, A+n);
+            auto [r, p, q] = A[n-1];
+            if (r==0) break;// early stop
+            
+            // Add the current inc to the sum
+            sum += r;
+            double r2= (double)(q - p) / ((q +1.0)* (q + 2.0));
+            A[n-1]={ r2, p+1, q+1};
+            push_heap(A, A+n);
         }
-
-        // Calculate the final average pass ratio
-        double totalPassRatio = 0.0;
-        while (!maxHeap.empty()) {
-            auto [_, classInfo] = maxHeap.top();
-            maxHeap.pop();
-            int passes = classInfo.first, total = classInfo.second;
-            totalPassRatio += (double)passes / total;
-        }
-
-        return totalPassRatio / classes.size();
+        
+        return sum / n;
     }
 };
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
