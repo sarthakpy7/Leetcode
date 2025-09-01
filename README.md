@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarthakpy7/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sarthakpy7/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakpy7/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sarthakpy7/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/sarthakpy7/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/sarthakpy7/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/sarthakpy7/Leetcode/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/sarthakpy7/Leetcode/tree/master/0768-partition-labels) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sarthakpy7/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/sarthakpy7/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sarthakpy7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/sarthakpy7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/sarthakpy7/Leetcode/tree/master/0221-maximal-square) |
