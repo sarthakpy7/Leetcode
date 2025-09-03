@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/sarthakpy7/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1025-minimum-cost-for-tickets](https://github.com/sarthakpy7/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/sarthakpy7/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sarthakpy7/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/sarthakpy7/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sarthakpy7/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/sarthakpy7/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/sarthakpy7/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sarthakpy7/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/sarthakpy7/Leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarthakpy7/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/sarthakpy7/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
