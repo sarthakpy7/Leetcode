@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/sarthakpy7/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/sarthakpy7/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/sarthakpy7/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sarthakpy7/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2294-minimum-time-to-complete-trips](https://github.com/sarthakpy7/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/sarthakpy7/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sarthakpy7/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sarthakpy7/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/sarthakpy7/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sarthakpy7/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1003,9 +1005,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sarthakpy7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sarthakpy7/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -1017,10 +1021,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sarthakpy7/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/sarthakpy7/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sarthakpy7/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -1057,4 +1063,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
