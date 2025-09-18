@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sarthakpy7/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3548-find-the-count-of-good-integers](https://github.com/sarthakpy7/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/sarthakpy7/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/sarthakpy7/Leetcode/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sarthakpy7/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/sarthakpy7/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sarthakpy7/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sarthakpy7/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/sarthakpy7/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/sarthakpy7/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sarthakpy7/Leetcode/tree/master/3678-design-task-manager) |
 ## Queue
 |  |
 | ------- |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sarthakpy7/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/sarthakpy7/Leetcode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -1144,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/sarthakpy7/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2868-continuous-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/sarthakpy7/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Monotonic Queue
