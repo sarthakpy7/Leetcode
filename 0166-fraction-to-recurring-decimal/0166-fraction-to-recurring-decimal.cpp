@@ -1,41 +1,53 @@
+// a variant with several considerations
+// use reduced fraction
+// judge if it has finitely many decimals; if yes, no need hashmap
 class Solution {
 public:
     string fractionToDecimal(int numerator, int denominator) {
-        if (numerator == 0) return "0";
+        if (numerator==0) return "0";
 
         string ans;
-        if ((numerator < 0) ^ (denominator < 0)) {
-            ans += "-";
-        }
-        long long n = abs((long long)numerator);
-        long long d = abs((long long)denominator);
+        // Handle sign
+        if ((numerator<0)^(denominator< 0)) ans+='-';
+        // Convert to long to avoid overflow (INT_MIN)
+        long long num=abs((long long)numerator);
+        long long den=abs((long long)denominator);
 
-    
-        long long integerPart = n / d;
-        ans += to_string(integerPart);
+        int g=gcd(num, den);
+        num/=g, den/=g;// consider reduced fraction
 
-        
-        long long remainder = n % d;
-        if (remainder == 0) return ans;
+        long long q=num/den;
+        long long r=num%den;
+        ans+=to_string(q);
 
-        ans += ".";
+        if (r==0) return ans;
 
-        unordered_map<long long, int> remainderMap;
+        // judge whether it has finite many decimals
+        int factor_wo2_5=den;
+        int bz=__builtin_ctzll(factor_wo2_5);
+        factor_wo2_5>>=bz;
+        while(factor_wo2_5%5==0) factor_wo2_5/=5;
+        bool finteDecimal=factor_wo2_5==1;
 
+        ans+= '.';
+        unordered_map<long long, int> mp;
+        string frac;
 
-        while (remainder != 0) {
-            if (remainderMap.find(remainder) != remainderMap.end()) {
-                ans.insert(remainderMap[remainder], "(");
-                ans += ")";
-                break;
+        for(int i=0; r != 0; i++) {
+            if (!finteDecimal){
+                auto it=mp.find(r);
+                if (it!=mp.end()) {
+                    frac.insert(it->second, "(");
+                    frac+= ')';
+                    break;
+                }
+                mp[r]=i;
             }
-            remainderMap[remainder] = ans.size();
-
-            remainder *= 10;
-            ans += to_string(remainder / d);
-            remainder %= d;
+            r*=10;
+            frac+=('0'+r/den);
+            r%=den;
         }
 
-        return ans;
+        return ans+frac;
     }
 };
