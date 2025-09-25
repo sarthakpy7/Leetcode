@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarthakpy7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sarthakpy7/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sarthakpy7/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sarthakpy7/Leetcode/tree/master/0055-jump-game) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sarthakpy7/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sarthakpy7/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sarthakpy7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sarthakpy7/Leetcode/tree/master/0169-majority-element) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sarthakpy7/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/sarthakpy7/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/sarthakpy7/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0113-path-sum-ii) |
