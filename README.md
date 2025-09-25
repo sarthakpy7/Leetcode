@@ -602,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/sarthakpy7/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthakpy7/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sarthakpy7/Leetcode/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/sarthakpy7/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakpy7/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakpy7/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -734,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarthakpy7/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/sarthakpy7/Leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/sarthakpy7/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sarthakpy7/Leetcode/tree/master/0165-compare-version-numbers) |
