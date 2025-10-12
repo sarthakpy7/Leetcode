@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sarthakpy7/Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/sarthakpy7/Leetcode/tree/master/0071-simplify-path) |
 | [0097-interleaving-string](https://github.com/sarthakpy7/Leetcode/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sarthakpy7/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthakpy7/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/sarthakpy7/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthakpy7/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sarthakpy7/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sarthakpy7/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
