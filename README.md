@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sarthakpy7/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sarthakpy7/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sarthakpy7/Leetcode/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakpy7/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sarthakpy7/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sarthakpy7/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sarthakpy7/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sarthakpy7/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sarthakpy7/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sarthakpy7/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/sarthakpy7/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/sarthakpy7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/sarthakpy7/Leetcode/tree/master/0906-walking-robot-simulation) |
