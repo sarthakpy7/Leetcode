@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sarthakpy7/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sarthakpy7/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sarthakpy7/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sarthakpy7/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthakpy7/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sarthakpy7/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sarthakpy7/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/sarthakpy7/Leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/sarthakpy7/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/sarthakpy7/Leetcode/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sarthakpy7/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthakpy7/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sarthakpy7/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/sarthakpy7/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sarthakpy7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakpy7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/sarthakpy7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
