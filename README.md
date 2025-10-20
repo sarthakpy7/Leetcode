@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sarthakpy7/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sarthakpy7/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sarthakpy7/Leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/sarthakpy7/Leetcode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sarthakpy7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/sarthakpy7/Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/sarthakpy7/Leetcode/tree/master/0233-number-of-digit-one) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/sarthakpy7/Leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sarthakpy7/Leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/sarthakpy7/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/sarthakpy7/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/sarthakpy7/Leetcode/tree/master/0342-power-of-four) |
@@ -1201,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sarthakpy7/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/sarthakpy7/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sarthakpy7/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sarthakpy7/Leetcode/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/sarthakpy7/Leetcode/tree/master/0679-24-game) |
