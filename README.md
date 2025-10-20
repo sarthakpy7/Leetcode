@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/sarthakpy7/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/sarthakpy7/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/sarthakpy7/Leetcode/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/sarthakpy7/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sarthakpy7/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sarthakpy7/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -1114,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sarthakpy7/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sarthakpy7/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/sarthakpy7/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/sarthakpy7/Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/sarthakpy7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1212,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/sarthakpy7/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/sarthakpy7/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/sarthakpy7/Leetcode/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sarthakpy7/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
