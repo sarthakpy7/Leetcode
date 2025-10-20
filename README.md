@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/sarthakpy7/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/sarthakpy7/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sarthakpy7/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sarthakpy7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/sarthakpy7/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2155-find-missing-observations](https://github.com/sarthakpy7/Leetcode/tree/master/2155-find-missing-observations) |
 | [2164-two-best-non-overlapping-events](https://github.com/sarthakpy7/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sarthakpy7/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sarthakpy7/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sarthakpy7/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sarthakpy7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/sarthakpy7/Leetcode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sarthakpy7/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/sarthakpy7/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sarthakpy7/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sarthakpy7/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/sarthakpy7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/sarthakpy7/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sarthakpy7/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
