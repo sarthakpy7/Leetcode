@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sarthakpy7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/sarthakpy7/Leetcode/tree/master/0679-24-game) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/sarthakpy7/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/sarthakpy7/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/sarthakpy7/Leetcode/tree/master/0787-sliding-puzzle) |
