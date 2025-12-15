@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/sarthakpy7/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/sarthakpy7/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2089-maximum-matrix-sum](https://github.com/sarthakpy7/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakpy7/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/sarthakpy7/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sarthakpy7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sarthakpy7/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/sarthakpy7/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/sarthakpy7/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/sarthakpy7/Leetcode/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakpy7/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sarthakpy7/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2155-find-missing-observations](https://github.com/sarthakpy7/Leetcode/tree/master/2155-find-missing-observations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sarthakpy7/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -1291,6 +1293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sarthakpy7/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/sarthakpy7/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/sarthakpy7/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sarthakpy7/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/sarthakpy7/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/sarthakpy7/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/sarthakpy7/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
