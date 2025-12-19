@@ -861,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sarthakpy7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarthakpy7/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/sarthakpy7/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/sarthakpy7/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/sarthakpy7/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/sarthakpy7/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/sarthakpy7/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/sarthakpy7/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sarthakpy7/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/sarthakpy7/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarthakpy7/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarthakpy7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/sarthakpy7/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/sarthakpy7/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/sarthakpy7/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/sarthakpy7/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sarthakpy7/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -1460,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sarthakpy7/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/sarthakpy7/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2092-find-all-people-with-secret](https://github.com/sarthakpy7/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2201-valid-arrangement-of-pairs](https://github.com/sarthakpy7/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sarthakpy7/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sarthakpy7/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -1544,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sarthakpy7/Leetcode/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/sarthakpy7/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sarthakpy7/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2092-find-all-people-with-secret](https://github.com/sarthakpy7/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2793-count-the-number-of-complete-components](https://github.com/sarthakpy7/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3863-power-grid-maintenance](https://github.com/sarthakpy7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
