@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sarthakpy7/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/sarthakpy7/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/sarthakpy7/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sarthakpy7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/sarthakpy7/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0906-walking-robot-simulation](https://github.com/sarthakpy7/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/sarthakpy7/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/sarthakpy7/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthakpy7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sarthakpy7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sarthakpy7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sarthakpy7/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sarthakpy7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -868,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/sarthakpy7/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sarthakpy7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0794-swim-in-rising-water](https://github.com/sarthakpy7/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sarthakpy7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sarthakpy7/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sarthakpy7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -900,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sarthakpy7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/sarthakpy7/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0794-swim-in-rising-water](https://github.com/sarthakpy7/Leetcode/tree/master/0794-swim-in-rising-water) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sarthakpy7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/sarthakpy7/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sarthakpy7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -939,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/sarthakpy7/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthakpy7/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/sarthakpy7/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sarthakpy7/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/sarthakpy7/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sarthakpy7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
