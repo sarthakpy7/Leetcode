@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakpy7/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sarthakpy7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/sarthakpy7/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/sarthakpy7/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/sarthakpy7/Leetcode/tree/master/0868-push-dominoes) |
@@ -1306,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sarthakpy7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/sarthakpy7/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sarthakpy7/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/sarthakpy7/Leetcode/tree/master/0868-push-dominoes) |
