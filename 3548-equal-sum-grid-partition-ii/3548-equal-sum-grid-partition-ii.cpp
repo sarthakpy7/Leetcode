@@ -77,7 +77,7 @@ public:
                 else if (A[0]==d || A[(r-1)*c+j]==d) return 1;
             }
         }
-        Seen.reset();
+        // Seen.reset();
         long long right=0;
         for (int j=c-1; j>=1; j--) {
             for (int i=0; i<r; i++) {
