@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakpy7/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sarthakpy7/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sarthakpy7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sarthakpy7/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sarthakpy7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1613,6 +1614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sarthakpy7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Ordered Set
 |  |
 | ------- |
