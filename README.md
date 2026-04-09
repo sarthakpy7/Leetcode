@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/sarthakpy7/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakpy7/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/sarthakpy7/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sarthakpy7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sarthakpy7/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/sarthakpy7/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/sarthakpy7/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sarthakpy7/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sarthakpy7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sarthakpy7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sarthakpy7/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/sarthakpy7/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -1610,6 +1612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sarthakpy7/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2280-count-good-triplets-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/sarthakpy7/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Ordered Set
 |  |
 | ------- |
