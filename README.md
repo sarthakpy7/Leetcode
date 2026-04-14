@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/sarthakpy7/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2429-design-a-food-rating-system](https://github.com/sarthakpy7/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/sarthakpy7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/sarthakpy7/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpy7/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthakpy7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -1101,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sarthakpy7/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakpy7/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sarthakpy7/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2463-minimum-total-distance-traveled](https://github.com/sarthakpy7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/sarthakpy7/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/sarthakpy7/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1422,6 +1424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/sarthakpy7/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sarthakpy7/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/sarthakpy7/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2463-minimum-total-distance-traveled](https://github.com/sarthakpy7/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/sarthakpy7/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpy7/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
