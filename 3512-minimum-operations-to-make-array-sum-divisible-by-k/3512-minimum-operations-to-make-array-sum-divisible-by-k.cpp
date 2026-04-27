@@ -1,8 +1,8 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        long long sum = 0;
-        for(int x : nums) sum += x;
+        int sum = 0;
+        for (int a : nums) sum += a;
         return sum % k;
     }
 };
