@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sarthakpy7/Leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/sarthakpy7/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0396-rotate-function](https://github.com/sarthakpy7/Leetcode/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/sarthakpy7/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/sarthakpy7/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarthakpy7/Leetcode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/sarthakpy7/Leetcode/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0679-24-game](https://github.com/sarthakpy7/Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/sarthakpy7/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -1428,6 +1430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/sarthakpy7/Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/sarthakpy7/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/sarthakpy7/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0396-rotate-function](https://github.com/sarthakpy7/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/sarthakpy7/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
