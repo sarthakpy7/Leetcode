@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/sarthakpy7/Leetcode/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/sarthakpy7/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0679-24-game](https://github.com/sarthakpy7/Leetcode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/sarthakpy7/Leetcode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/sarthakpy7/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/sarthakpy7/Leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/sarthakpy7/Leetcode/tree/master/0830-largest-triangle-area) |
@@ -1436,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sarthakpy7/Leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/sarthakpy7/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sarthakpy7/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/sarthakpy7/Leetcode/tree/master/0788-rotated-digits) |
 | [0826-soup-servings](https://github.com/sarthakpy7/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sarthakpy7/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/sarthakpy7/Leetcode/tree/master/0868-push-dominoes) |
