@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sarthakpy7/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthakpy7/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sarthakpy7/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/sarthakpy7/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/sarthakpy7/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/sarthakpy7/Leetcode/tree/master/1972-rotating-the-box) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/sarthakpy7/Leetcode/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthakpy7/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1972-rotating-the-box](https://github.com/sarthakpy7/Leetcode/tree/master/1972-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/sarthakpy7/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthakpy7/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/sarthakpy7/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/sarthakpy7/Leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/sarthakpy7/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/sarthakpy7/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthakpy7/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/sarthakpy7/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
