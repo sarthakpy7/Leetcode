@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sarthakpy7/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthakpy7/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthakpy7/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2792-neighboring-bitwise-xor](https://github.com/sarthakpy7/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1486,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/sarthakpy7/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2586-longest-square-streak-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/sarthakpy7/Leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sarthakpy7/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sarthakpy7/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
