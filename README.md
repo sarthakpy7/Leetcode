@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/sarthakpy7/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sarthakpy7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/sarthakpy7/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sarthakpy7/Leetcode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sarthakpy7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/sarthakpy7/Leetcode/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sarthakpy7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakpy7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1345-jump-game-iv](https://github.com/sarthakpy7/Leetcode/tree/master/1345-jump-game-iv) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sarthakpy7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/sarthakpy7/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sarthakpy7/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/sarthakpy7/Leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sarthakpy7/Leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/sarthakpy7/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1484-linked-list-in-binary-tree](https://github.com/sarthakpy7/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
