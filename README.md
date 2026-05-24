@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/sarthakpy7/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sarthakpy7/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1306-jump-game-iii](https://github.com/sarthakpy7/Leetcode/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/sarthakpy7/Leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sarthakpy7/Leetcode/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/sarthakpy7/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/sarthakpy7/Leetcode/tree/master/1390-four-divisors) |
@@ -1159,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sarthakpy7/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/sarthakpy7/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sarthakpy7/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1340-jump-game-v](https://github.com/sarthakpy7/Leetcode/tree/master/1340-jump-game-v) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sarthakpy7/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/sarthakpy7/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sarthakpy7/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1484,6 +1486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sarthakpy7/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sarthakpy7/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthakpy7/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/sarthakpy7/Leetcode/tree/master/1340-jump-game-v) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakpy7/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sarthakpy7/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sarthakpy7/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
