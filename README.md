@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sarthakpy7/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarthakpy7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarthakpy7/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/sarthakpy7/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sarthakpy7/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/sarthakpy7/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/sarthakpy7/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarthakpy7/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarthakpy7/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthakpy7/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sarthakpy7/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/sarthakpy7/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3548-find-the-count-of-good-integers](https://github.com/sarthakpy7/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarthakpy7/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3583-count-special-triplets](https://github.com/sarthakpy7/Leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/sarthakpy7/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/sarthakpy7/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/sarthakpy7/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3394-minimum-array-end](https://github.com/sarthakpy7/Leetcode/tree/master/3394-minimum-array-end) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarthakpy7/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/sarthakpy7/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/sarthakpy7/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/sarthakpy7/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/sarthakpy7/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/sarthakpy7/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sarthakpy7/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/sarthakpy7/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthakpy7/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3863-power-grid-maintenance](https://github.com/sarthakpy7/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
